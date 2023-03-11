@@ -10,6 +10,7 @@
 - Period: 2023.3~2023.6
 - 이론교재: [이코테](http://www.yes24.com/Product/Goods/91433923)
 - 문제풀이사이트: [백준](https://www.acmicpc.net/)
+- 스터디 노션페이지 : [🤪BABO](https://www.notion.so/BABO-12a98a81d7294bc1975bd24f73420fc2)
 
 <br/>
 
