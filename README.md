@@ -1,11 +1,11 @@
-# BABO
+# 🤪BABO
 ### BOAZ Algorithm Best Output
 
-🤪바보들의 성장 스토리
+바보들의 성장 스토리
 
 </br>
 
-## Project Summary
+## 😀Project Summary
 - Detail: 알고리즘 기초 내용을 공부하고 관련 문제를 풀어봅니다.
 - Period: 2023.3~2023.6
 - 이론교재: [이코테](http://www.yes24.com/Product/Goods/91433923)
@@ -14,7 +14,7 @@
 <br/>
 
 
-## Team Member
+## 👉Team Member
 - 팀장: [20기 정원준](https://github.com/garden-jun/)
 - 팀원: [20기 강채원](https://github.com/BOAZ-bigdata/), [20기 김주은](https://github.com/BOAZ-bigdata/), [20기 김지민](https://github.com/BOAZ-bigdata/), [19기 김지원](https://github.com/BOAZ-bigdata/), [20기 송여진](https://github.com/BOAZ-bigdata/), [20기 오태연](https://github.com/BOAZ-bigdata/), [20기 이시내](https://github.com/BOAZ-bigdata/)
 
