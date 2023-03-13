@@ -17,7 +17,7 @@
 
 ## 👉Team Member
 - 팀장: [20기 정원준](https://github.com/garden-jun/)
-- 팀원: [20기 강채원](https://github.com/BOAZ-bigdata/), [20기 김주은](https://github.com/BOAZ-bigdata/), [20기 김지민](https://github.com/BOAZ-bigdata/), [19기 김지원](https://github.com/BOAZ-bigdata/), [20기 송여진](https://github.com/BOAZ-bigdata/), [20기 오태연](https://github.com/BOAZ-bigdata/), [20기 이시내](https://github.com/BOAZ-bigdata/)
+- 팀원: [20기 강채원](https://github.com/chaeoneee/), [20기 김주은](https://github.com/jekim20/), [20기 김지민](https://github.com/JiminiiiKim/), [19기 김지원](https://github.com/jeewonkimm2/), [20기 송여진](https://github.com/YeoJins/), [20기 오태연](https://github.com/ohbigkite/), [20기 이시내](https://github.com/joljol38/)
 
 <br/>
 
