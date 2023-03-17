@@ -17,7 +17,7 @@
 
 ## 👉Team Member
 - 팀장: [20기 정원준](https://github.com/garden-jun/)
-- 팀원: [20기 강채원](https://github.com/chaeoneee/), [20기 김주은](https://github.com/jekim20/), [20기 김지민](https://github.com/JiminiiiKim/), [19기 김지원](https://github.com/jeewonkimm2/), [20기 송여진](https://github.com/YeoJins/), [20기 오태연](https://github.com/ohbigkite/), [20기 이시내](https://github.com/joljol38/)
+- 팀원: [20기 강채원](https://github.com/chaeoneee/), [20기 김주은](https://github.com/jekim20/), [20기 김지민](https://github.com/JiminiiiKim/), ~~[19기 김지원](https://github.com/jeewonkimm2/)~~, [20기 송여진](https://github.com/YeoJins/), [20기 오태연](https://github.com/ohbigkite/), [20기 이시내](https://github.com/joljol38/)
 
 <br/>
 
@@ -32,7 +32,7 @@
 
 
 ## 😤 발제 순서
-> **김지민 -> 이시내 -> 김주은 -> 오태연 -> 송여진 -> 김지원 -> 정원준 -> 강채원**
+> **김지민 -> 이시내 -> 김주은 -> 오태연 -> 송여진 -> ~~김지원~~ -> 정원준 -> 강채원**
 
 <br/>
 
@@ -40,6 +40,19 @@
 - 교재 PART03 부분의 문제, 백준에서 인기있는 문제, 팀원이 추천한 문제 순으로 우선순위를 매겨 가져옵니다.
 - 추천하고 싶은 문제가 있다면 `Issue` 를 등록합니다.
 - 문제풀이 양은 매주 5개 정도 가져올 예정입니다.
+
+<br/>
+
+
+## 🥰 문제 제출 양식
+- 위 코드 목록중 "문제풀이제출양식.md" 를 가져다가 쓰시면 됩니다!
+
+##### 폴더 경로: `{N주차} / {이름}/`
+
+### 파일이름:
+- 이코테 교재 문제 : `[이코테]{코드이름}.md`
+- 백준 교재 문제 : `[백준]{문제번호}_{문제이름}.md`
+
 
 <br/>
 
@@ -63,11 +76,11 @@
 
 
 ### PR - 과제 제출
-- 제목 : `{N주차} - {이름}`
+- 제목 : `{N주차}_{이름}`
 - 내용 : 특이사항 혹은 질문이 있을 경우에는 함께 작성합니다.
 
 ### 문제 업로드
-- 폴더 구조 : `week{N} / {이름}`
+- 폴더 구조 : `{N주차} / {이름}/`
 - 파일명 : `[{출처}]{문제 이름}.md`
 
 ### Commit Message
